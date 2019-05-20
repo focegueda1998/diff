@@ -185,6 +185,7 @@ void init_options_files(int argc, const char* argv[]) {
 	  if(brief_diff() == 1) { printf("\nFILES ARE THE SAME!\n"); }
 	  exit(0);
   }
+  if(diffnormal) { diff(); }
 }
 
 
