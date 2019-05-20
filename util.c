@@ -1,10 +1,4 @@
-//
-//  util.c
-//  diff
-//
-//  Created by William McCarthy on 5/9/19.
-//  Copyright © 2019 William McCarthy. All rights reserved.
-//
+
 
 #include <string.h>
 #include <stdlib.h>

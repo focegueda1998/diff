@@ -1,10 +1,3 @@
-//
-//  diff_02.c
-//  diff
-//
-//  Created by William McCarthy on 4/29/19.
-//  Copyright © 2019 William McCarthy. All rights reserved.
-//
 
 #include <stdio.h>
 #include <stdlib.h>

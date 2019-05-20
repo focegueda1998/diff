@@ -1,10 +1,4 @@
-//
-//  util.h
-//  diff
-//
-//  Created by William McCarthy on 5/9/19.
-//  Copyright © 2019 William McCarthy. All rights reserved.
-//
+
 
 #ifndef util_h
 #define util_h

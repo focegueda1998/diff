@@ -1,10 +1,4 @@
-//
-//  para.h
-//  diff
-//
-//  Created by William McCarthy on 5/9/19.
-//  Copyright © 2019 William McCarthy. All rights reserved.
-//
+
 
 #ifndef para_h
 #define para_h
